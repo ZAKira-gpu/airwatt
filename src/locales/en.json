@@ -1,0 +1,135 @@
+{
+    "nav": {
+        "technology": "Technology",
+        "products": "Products",
+        "applications": "Applications",
+        "about": "About",
+        "contact": "Contact",
+        "partner": "Partner With Us"
+    },
+    "hero": {
+        "headline_1": "Powering the Future,",
+        "headline_2": "Wirelessly.",
+        "subheadline": "AirWatt rectennas convert radio waves into clean, usable electricity—anywhere. Unleashing the potential of batteryless IoT and remote sensing.",
+        "cta_tech": "Explore Technology",
+        "cta_partner": "Partner With Us"
+    },
+    "about": {
+        "title_1": "Redefining Power",
+        "title_2": "Through the Air.",
+        "description_1": "At AirWatt, we are pioneering the next generation of wireless energy. Our rectenna technology captures ambient and directed radio frequency waves, converting them into continuous, clean DC power.",
+        "description_2": "We eliminate the need for batteries in billions of IoT devices, reducing e-waste and enabling truly maintenance-free smart environments.",
+        "features": {
+            "efficiency": {
+                "title": "High-Efficiency Harvesting",
+                "description": "Proprietary rectenna circuits designed to capture RF energy with minimal loss."
+            },
+            "beamforming": {
+                "title": "Smart Beamforming",
+                "description": "Intelligent energy routing to target devices dynamically."
+            },
+            "scalability": {
+                "title": "Global Scalability",
+                "description": "Built for mass deployment in industrial and consumer IoT ecosystems."
+            }
+        }
+    },
+    "technology": {
+        "title": "Core Technology",
+        "subtitle": "Built on years of research in metamaterials and RF engineering.",
+        "cards": {
+            "conversion": {
+                "title": "RF-to-DC Conversion",
+                "subtitle": "Ultra-Low Loss Circuits",
+                "description": "Our patented diode configurations achieve industry-leading conversion efficiency, even at low power densities."
+            },
+            "beamforming": {
+                "title": "Beamforming Arrays",
+                "subtitle": "Precision Power Delivery",
+                "description": "Phased array antennas focus energy beams directly to receivers, maximizing range and minimizing waste."
+            },
+            "transfer": {
+                "title": "Long-Range Transfer",
+                "subtitle": "Extended Coverage",
+                "description": "Power sensors and devices up to 30 meters away, enabling true room-scale and warehouse-scale wireless power."
+            }
+        }
+    },
+    "products": {
+        "title": "Rectenna Series",
+        "subtitle": "Scalable solutions for every power requirement.",
+        "datasheet": "View Full Datasheets →",
+        "best_for": "Best For",
+        "shop_now": "Shop Now",
+        "order_title": "Place Your Order",
+        "order_subtitle": "Fill in your details to purchase",
+        "form": {
+            "name": "Full Name",
+            "phone": "Phone Number",
+            "address": "Delivery Address",
+            "quantity": "Quantity",
+            "submit": "Confirm Order",
+            "cancel": "Cancel"
+        },
+        "iot": {
+            "name": "AirWatt IoT",
+            "type": "Micro-Rectenna",
+            "use": "Sensors, Tags, Wearables"
+        },
+        "pro": {
+            "name": "AirWatt Pro",
+            "type": "Power Bank Auto-Rechargeable",
+            "use": "Smart Home, Cameras, Locks"
+        },
+        "ind": {
+            "name": "AirWatt Ind",
+            "type": "Industrial Rectenna",
+            "use": "Factory Automation, Robotics"
+        },
+        "pcb_flexible": {
+            "name": "PCB Flexible",
+            "type": "Flexible Circuit Board",
+            "use": "Wearables, Curved Surfaces"
+        },
+        "pcb_normale": {
+            "name": "PCB Normale",
+            "type": "Standard Circuit Board",
+            "use": "General Applications, Prototyping"
+        },
+        "impision_3d": {
+            "name": "IMPISION 3D",
+            "type": "3D Printed Rectenna",
+            "use": "Custom Shapes, Rapid Prototyping"
+        }
+    },
+    "applications": {
+        "title": "Powering Everything",
+        "list": [
+            "Smart Agriculture",
+            "Industrial IoT",
+            "Smart Cities",
+            "Consumer Electronics",
+            "Healthcare Wearables",
+            "Retail Beacons",
+            "Logistics Tracking",
+            "Automotive Sensors"
+        ]
+    },
+    "contact": {
+        "title": "Partner With Us",
+        "subtitle": "Ready to integrate wireless power into your product? Let's talk.",
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "company": "Company",
+            "message": "Message",
+            "submit": "Send Message"
+        }
+    },
+    "footer": {
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "contact": "Contact",
+        "rights": "All rights reserved."
+    }
+}

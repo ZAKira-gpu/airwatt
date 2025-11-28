@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-airwatt-dark text-white font-sans antialiased overflow-x-hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-display;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-airwatt-cyan to-airwatt-blue;
+  }
+
+  .bg-glass {
+    @apply bg-airwatt-navy/80 backdrop-blur-md border border-white/10;
+  }
+}
